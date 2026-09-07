@@ -1,0 +1,6 @@
+{
+  "name": "Evelyn Cycle",
+  "description": "Period, cycle, fertility and symptoms tracker tailored with personalized insights",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
